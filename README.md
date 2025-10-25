@@ -46,17 +46,5 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-## 🏆 GitHub Stats
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=aryaman-singh&show_icons=true&theme=blueberry" alt="Aryaman's GitHub Stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryaman-singh&theme=blueberry" height="165">
-</p>
-
-## 📈 Visitor Count
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aryaman-singh&label=Profile%20views&color=blue&style=flat" alt="Profile Views" />
-</p>
-
----
 
 ### Thanks for visiting my profile! 🚀 Let's connect and build something awesome together!
