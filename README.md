@@ -46,5 +46,3 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-
-### Thanks for visiting my profile! 🚀 Let's connect and build something awesome together!
