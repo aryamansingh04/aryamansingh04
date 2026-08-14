@@ -7,11 +7,9 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sebasrp/sebasrp/master/cyberpunk.pixelart.Akito_One.gif" 
-       alt="Cyberpunk Animation" 
-       width="800" />
-</p>
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
 ## 🚀 About Me
 - 🌱 Aspiring Data Scientist  
@@ -21,6 +19,14 @@
 - 💡 Love to build projects and turn ideas into reality  
 - 🌍 Always curious to learn and share knowledge  
 
+    </td>
+    <td valign="top" width="50%" align="center">
+
+<img src="https://raw.githubusercontent.com/sebasrp/sebasrp/master/cyberpunk.pixelart.Akito_One.gif" alt="Cyberpunk Animation" width="400" />
+
+    </td>
+  </tr>
+</table>
 ## 📫 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/aryaman-kumar-singh-2b6832317/" target="_blank">
