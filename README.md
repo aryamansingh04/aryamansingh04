@@ -7,10 +7,9 @@
 
 ---
 
-<img align="right" width="400" src="https://raw.githubusercontent.com/sebasrp/sebasrp/master/cyberpunk.pixelart.Akito_One.gif" alt="Cyberpunk Animation" />
-<img align="right" width="2" height="260" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Solid_white.svg/10px-Solid_white.svg.png" alt="" />
+<img align="right" width="520" src="https://raw.githubusercontent.com/sebasrp/sebasrp/master/cyberpunk.pixelart.Akito_One.gif" alt="Cyberpunk Animation" />
 
-## 🚀 About Me
+### 🚀 About Me
 - 🌱 Aspiring Data Scientist  
 - 💻 Passionate Web Developer  
 - 🖥️ Coding enthusiast always exploring new technologies  
