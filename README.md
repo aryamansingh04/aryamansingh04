@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Andale+Mono&weight=700&size=40&duration=240&pause=3750&color=2563EB&center=false&vCenter=true&width=360&height=65&lines=HELLO+%F0%9F%91%8B%F0%9F%8F%BB;NAMASTE+%F0%9F%91%8B%F0%9F%8F%BB;HOLA+%F0%9F%91%8B%F0%9F%8F%BB;BONJOUR+%F0%9F%91%8B%F0%9F%8F%BB;CIAO+%F0%9F%91%8B%F0%9F%8F%BB;OL%C3%81+%F0%9F%91%8B%F0%9F%8F%BB;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF+%F0%9F%91%8B%F0%9F%8F%BB;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%F0%9F%91%8B%F0%9F%8F%BB;%E4%BD%A0%E5%A5%BD+%F0%9F%91%8B%F0%9F%8F%BB;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7+%F0%9F%91%8B%F0%9F%8F%BB;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82+%F0%9F%91%8B%F0%9F%8F%BB"
+    src="https://readme-typing-svg.herokuapp.com/?font=Andale+Mono&weight=700&size=40&duration=200&pause=3750&color=2563EB&center=false&vCenter=true&width=360&height=65&lines=HELLO+%F0%9F%91%8B%F0%9F%8F%BB;NAMASTE+%F0%9F%91%8B%F0%9F%8F%BB;HOLA+%F0%9F%91%8B%F0%9F%8F%BB;BONJOUR+%F0%9F%91%8B%F0%9F%8F%BB;CIAO+%F0%9F%91%8B%F0%9F%8F%BB;OL%C3%81+%F0%9F%91%8B%F0%9F%8F%BB;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF+%F0%9F%91%8B%F0%9F%8F%BB;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%F0%9F%91%8B%F0%9F%8F%BB;%E4%BD%A0%E5%A5%BD+%F0%9F%91%8B%F0%9F%8F%BB;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7+%F0%9F%91%8B%F0%9F%8F%BB;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82+%F0%9F%91%8B%F0%9F%8F%BB"
     alt="GREETING"
     align="middle"
   /><img
