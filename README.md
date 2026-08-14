@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Andale Mono&weight=700&size=20&duration=700&pause=1300&color=3B82F6&center=true&vCenter=true&width=500&height=40&lines=HELLO;NAMASTE;HOLA;BONJOUR;CIAO;OL%C3%81;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%E3%82%88;%E4%BD%A0%E5%A5%BD;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7;%D0%9F%D0%A0%D0%98%D0%92%D0%95%D0%A2" alt="HELLO" />
-  <span style="font-family: Andale Mono, sans-serif; font-size: 740px; font-weight: 700; color: #FFFFFF;">I AM</span>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Andale+Mono&weight=700&size=28&duration=600&pause=1400&color=2563EB&center=true&vCenter=true&width=260&height=45&lines=HELLO;NAMASTE;HOLA;BONJOUR;CIAO;OL%C3%81;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%E3%82%9E;%E4%BD%A0%E5%A5%BD;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7;%D0%9F%D0%A0%D0%98%D0%92%D0%95%D0%A2" alt="HELLO" /><span style="font-family: 'Andale Mono', monospace; font-size: 28px; font-weight: 700; color: #FFFFFF;"> I AM</span>
   <br>
-  <span style="font-family: Andale Mono, sans-serif; font-size: 750px; font-weight: 700; color: #FFFFFF;">ARYAMAN SINGH</span>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Andale+Mono&weight=700&size=32&duration=1&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=420&height=48&lines=ARYAMAN+SINGH" alt="ARYAMAN SINGH" />
 </p>
 
 ---
