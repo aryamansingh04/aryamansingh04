@@ -7,7 +7,7 @@
 
 ---
 
-<img align="right" width="360" height="360" border="0" src="https://files.catbox.moe/wmt7q6.gif" alt="3D Animation" />
+<img align="right" width="360" src="https://files.catbox.moe/b6pf6v.gif" alt="3D Animation" />
 
 <p>
 <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=700&size=32&duration=1&pause=1000000&color=FFFFFF&center=false&vCenter=true&repeat=false&width=200&height=38&lines=ABOUT+ME" alt="ABOUT ME" /><br>
