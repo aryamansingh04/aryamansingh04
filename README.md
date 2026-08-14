@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=40&duration=2200&pause=1400&color=3B82F6&center=false&vCenter=true&repeat=true&width=400&height=50&lines=HELLO+%F0%9F%91%8B%3BNAMASTE+%F0%9F%91%8B%3BHOLA+%F0%9F%91%8B%3BBONJOUR+%F0%9F%91%8B%3BCIAO+%F0%9F%91%8B%3BOL%C3%81+%F0%9F%91%8B%3B%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF+%F0%9F%91%8B%3B%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%F0%9F%91%8B%3B%D9%85%D8%B1%D8%AD%D8%A8%D8%A7+%F0%9F%91%8B%3B%D0%97%D0%94%D0%A0%D0%90%D0%92%D0%A1%D0%A2%D0%92%D0%A3%D0%99%D0%A2%D0%95+%F0%9F%91%8B" alt="Greeting" /><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=40&duration=2200&pause=1400&color=FFFFFF&center=false&vCenter=true&repeat=true&width=250&height=50&lines=I+AM%3BMAIN+HOON%3BSOY%3BJE+SUIS%3BSONO%3BEU+SOU%3B%E7%A7%81%E3%81%AF%3B%EC%A0%80%EB%8A%94%3B%D8%A3%D9%86%D8%A7%3B%D0%AF" alt="I am" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=48&duration=3000&pause=1400&color=3B82F6&center=true&vCenter=true&repeat=true&width=720&height=70&lines=HELLO+👋+I+AM;NAMASTE+👋+MAIN+HOON;HOLA+👋+SOY;BONJOUR+👋+JE+SUIS;CIAO+👋+SONO;OLÁ+👋+EU+SOU;こんにちは+👋+私は;안녕하세요+👋+저는;مرحبا+👋+أنا;ЗДРАВСТВУЙТЕ+👋+Я" alt="Greeting" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=40&duration=1&pause=1000000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=460&height=50&lines=ARYAMAN+SINGH" alt="ARYAMAN SINGH" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=48&duration=1&pause=1000000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=520&height=70&lines=ARYAMAN+SINGH" alt="ARYAMAN SINGH" />
 </p>
 
 ---
