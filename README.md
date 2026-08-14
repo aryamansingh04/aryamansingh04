@@ -1,18 +1,23 @@
 <p align="center">
 
-  <!-- CHANGING GREETING -->
+  <!-- GREETING -->
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&duration=700&pause=1300&color=FFFFFF&center=true&vCenter=true&width=1000&height=65&lines=HI%2C+I+AM+%F0%9F%91%8B;NAMASTE%2C+I+AM+%F0%9F%91%8B;HOLA%2C+SOY+%F0%9F%91%8B;BONJOUR%2C+JE+SUIS+%F0%9F%91%8B;CIAO%2C+SONO+%F0%9F%91%8B;OL%C3%81%2C+EU+SOU+%F0%9F%91%8B;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%2C+%E7%A7%81%E3%81%AF+%F0%9F%91%8B;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+%EC%A0%80%EB%8A%94+%F0%9F%91%8B;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+%F0%9F%91%8B;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7%D8%8C+%D8%A3%D9%86%D8%A7+%F0%9F%91%8B;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+%F0%9F%91%8B"
-    alt="CHANGING GREETING"
-  />
+    src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=20&duration=500&pause=1500&color=3B82F6&center=true&vCenter=true&width=180&height=35&lines=HELLO;NAMASTE;HOLA;BONJOUR;CIAO;OL%C3%81;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94;%E4%BD%A0%E5%A5%BD;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7;%D0%9F%D0%A0%D0%98%D0%92%D0%95%D0%A2"
+    alt="HELLO"
+  >
+
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=20&duration=1&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=120&height=35&lines=I+AM"
+    alt="I AM"
+  >
 
   <br>
 
-  <!-- CONSTANT NAME -->
+  <!-- NAME -->
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=60&duration=1&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=1000&height=90&lines=ARYAMAN+SINGH"
+    src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=20&duration=1&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=300&height=40&lines=ARYAMAN+SINGH"
     alt="ARYAMAN SINGH"
-  />
+  >
 
 </p>
 
