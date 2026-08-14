@@ -22,7 +22,6 @@
 - 🌍 Always curious to learn and share knowledge  
 
 <br clear="both"/>
-<br/>
 
 ---
 
