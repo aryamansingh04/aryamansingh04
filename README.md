@@ -7,11 +7,12 @@
 
 ---
 
-<table>
-  <tr>
-    <td valign="top">
+<img align="right" width="520" hspace="5" src="https://raw.githubusercontent.com/sebasrp/sebasrp/master/cyberpunk.pixelart.Akito_One.gif" alt="Cyberpunk Animation" />
 
-## ABOUT ME
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=700&size=32&duration=1&pause=1000000&color=FFFFFF&center=false&vCenter=true&repeat=false&width=200&height=38&lines=ABOUT+ME" alt="ABOUT ME" /><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Solid_white.svg/10px-Solid_white.svg.png" width="400" height="2" alt="" />
+</p>
 
 - 🌱 Aspiring Data Scientist  
 - 💻 Passionate Web Developer  
@@ -20,13 +21,6 @@
 - 💡 Love to build projects and turn ideas into reality  
 - 🌍 Always curious to learn and share knowledge  
 
-    </td>
-    <td width="5"></td>
-    <td valign="top" width="520">
-      <img src="https://raw.githubusercontent.com/sebasrp/sebasrp/master/cyberpunk.pixelart.Akito_One.gif" alt="Cyberpunk Animation" width="520" />
-    </td>
-  </tr>
-</table>
 <br clear="both"/>
 <br/>
 
