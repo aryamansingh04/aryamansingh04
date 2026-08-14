@@ -7,7 +7,7 @@
 
 ---
 
-<img align="right" width="520" hspace="5" src="https://raw.githubusercontent.com/sebasrp/sebasrp/master/cyberpunk.pixelart.Akito_One.gif" alt="Cyberpunk Animation" />
+<img align="right" width="520" hspace="5" src="lucidlink.gif" alt="3D Animation" />
 
 <p>
 <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=700&size=32&duration=1&pause=1000000&color=FFFFFF&center=false&vCenter=true&repeat=false&width=200&height=38&lines=ABOUT+ME" alt="ABOUT ME" /><br>
@@ -22,6 +22,7 @@
 - 🌍 Always curious to learn and share knowledge  
 
 <br clear="both"/>
+<br/>
 
 ---
 
