@@ -1,18 +1,18 @@
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Andale+Mono&weight=700&size=40&duration=1&pause=3750&color=2563EB&center=false&vCenter=true&width=430&height=55&lines=HELLO;NAMASTE;HOLA;BONJOUR;CIAO;OL%C3%81;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94;%E4%BD%A0%E5%A5%BD;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7;%D0%9F%D0%A0%D0%98%D0%92%D0%95%D0%A2"
-    alt="GREETING"
-    align="middle"
-  /><img
-    src="https://readme-typing-svg.herokuapp.com?font=Andale+Mono&weight=700&size=40&duration=1&pause=1000000&color=FFFFFF&center=false&vCenter=true&width=150&height=55&lines=I+AM"
-    alt="I AM"
-    align="middle"
-  />
+  <span>
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Andale+Mono&weight=700&size=40&duration=180&pause=3750&color=2563EB&center=false&vCenter=true&width=360&height=60&lines=HELLO+%F0%9F%91%8B%F0%9F%8F%BB;NAMASTE+%F0%9F%91%8B%F0%9F%8F%BB;HOLA+%F0%9F%91%8B%F0%9F%8F%BB;BONJOUR+%F0%9F%91%8B%F0%9F%8F%BB;CIAO+%F0%9F%91%8B%F0%9F%8F%BB;OL%C3%81+%F0%9F%91%8B%F0%9F%8F%BB;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF+%F0%9F%91%8B%F0%9F%8F%BB;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%F0%9F%91%8B%F0%9F%8F%BB;%E4%BD%A0%E5%A5%BD+%F0%9F%91%8B%F0%9F%8F%BB;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7+%F0%9F%91%8B%F0%9F%8F%BB;%D0%9F%D0%A0%D0%98%D0%92%D0%95%D0%A2+%F0%9F%91%8B%F0%9F%8F%BB"
+      alt="GREETING"
+      align="middle"
+    ><span style="font-size:40px;font-weight:700;color:#FFFFFF;font-family:monospace;"> I AM</span>
+  </span>
+
   <br>
+
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Andale+Mono&weight=700&size=40&duration=1&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=ARYAMAN+SINGH"
+    src="https://readme-typing-svg.herokuapp.com?font=Andale+Mono&weight=700&size=40&duration=1&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=650&height=60&lines=ARYAMAN+SINGH"
     alt="ARYAMAN SINGH"
-  />
+  >
 </p>
 
 ---
