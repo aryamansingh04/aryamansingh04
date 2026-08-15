@@ -34,7 +34,7 @@ I'm a Computer Science student focused on Data Science and software development.
 
 <p>
 <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=700&size=32&duration=1&pause=1000000&color=FFFFFF&center=false&vCenter=true&repeat=false&width=400&height=38&lines=%F0%9F%93%AB+CONNECT+WITH+ME" alt="CONNECT WITH ME" /><br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Solid_white.svg/10px-Solid_white.svg.png" width="1000" height="2" alt="" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Solid_white.svg/10px-Solid_white.svg.png" width="1050" height="2" alt="" />
 </p>
 
 <p align="center">
