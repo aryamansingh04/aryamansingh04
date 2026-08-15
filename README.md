@@ -7,16 +7,21 @@
 
 ---
 
-<img align="right" width="360" src="https://files.catbox.moe/b6pf6v.gif" alt="3D Animation" />
-
+<table width="880" border="0" cellpadding="0" cellspacing="0" rules="none" frame="void">
+  <tr>
+    <td width="470" valign="top">
 <p>
 <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=700&size=32&duration=1&pause=1000000&color=FFFFFF&center=false&vCenter=true&repeat=false&width=280&height=38&lines=%F0%9F%9A%80+ABOUT+ME" alt="ABOUT ME" /><br />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Solid_white.svg/10px-Solid_white.svg.png" width="470" height="2" alt="" />
 </p>
-
-<table width="460" border="0" cellpadding="0" cellspacing="0" rules="none" frame="void">
+    </td>
+    <td width="10"></td>
+    <td width="360" rowspan="2" valign="bottom" align="right">
+      <img width="360" src="https://files.catbox.moe/b6pf6v.gif" alt="3D Animation" />
+    </td>
+  </tr>
   <tr>
-    <td width="460" align="justify" valign="top">
+    <td width="470" valign="bottom" align="justify">
 
 I'm a Computer Science student focused on Data Science and software development. I enjoy building practical solutions, experimenting with ideas, and continuously improving how I approach technical problems.
 
@@ -25,10 +30,9 @@ I'm a Computer Science student focused on Data Science and software development.
 - **Currently exploring:** Machine Learning, scalable applications, and emerging AI technologies.
 
     </td>
+    <td width="10"></td>
   </tr>
 </table>
-<br clear="both" />
-<br />
 
 ---
 
