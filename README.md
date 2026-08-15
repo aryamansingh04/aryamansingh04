@@ -11,7 +11,7 @@
 
 <p>
 <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=700&size=32&duration=1&pause=1000000&color=FFFFFF&center=false&vCenter=true&repeat=false&width=280&height=38&lines=%F0%9F%9A%80+ABOUT+ME" alt="ABOUT ME" /><br />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Solid_white.svg/10px-Solid_white.svg.png" width="580" height="2" alt="" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Solid_white.svg/10px-Solid_white.svg.png" width="590" height="2" alt="" />
 </p>
 
 <table width="460" border="0" cellpadding="0" cellspacing="0" rules="none" frame="void">
@@ -34,7 +34,7 @@ I'm a Computer Science student focused on Data Science and software development.
 
 <p>
 <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=700&size=32&duration=1&pause=1000000&color=FFFFFF&center=false&vCenter=true&repeat=false&width=320&height=38&lines=%F0%9F%9B%A0%EF%B8%8F+TECH+STACK" alt="TECH STACK" /><br />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Solid_white.svg/1200px-Solid_white.svg.png" width="1100" height="3" alt="" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Solid_white.svg/1200px-Solid_white.svg.png" width="1200" height="3" alt="" />
 </p>
 <p><big><b>Programming</b></big><br /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="48" height="48" alt="C" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48" height="48" alt="Java" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" height="48" alt="SQL" /></p>
 <p><big><b>Data Science &amp; ML</b></big><br /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="Machine Learning" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="Deep Learning" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="NLP" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="48" height="48" alt="Feature Engineering" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="48" height="48" alt="RAG System" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/plotly/3F4F75" width="48" height="48" alt="Model Evaluation" /></p>
@@ -47,7 +47,7 @@ I'm a Computer Science student focused on Data Science and software development.
 
 <p>
 <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=700&size=32&duration=1&pause=1000000&color=FFFFFF&center=false&vCenter=true&repeat=false&width=400&height=38&lines=%F0%9F%93%AB+CONNECT+WITH+ME" alt="CONNECT WITH ME" /><br />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Solid_white.svg/10px-Solid_white.svg.png" width="590" height="2" alt="" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Solid_white.svg/1200px-Solid_white.svg.png" width="1200" height="3" alt="" />
 </p>
 
 <p align="center">
