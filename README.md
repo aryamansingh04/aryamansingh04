@@ -11,12 +11,12 @@
 
 <p>
 <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=700&size=32&duration=1&pause=1000000&color=FFFFFF&center=false&vCenter=true&repeat=false&width=280&height=38&lines=%F0%9F%9A%80+ABOUT+ME" alt="ABOUT ME" /><br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Solid_white.svg/10px-Solid_white.svg.png" width="480" height="2" alt="" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Solid_white.svg/10px-Solid_white.svg.png" width="590" height="2" alt="" />
 </p>
 
-<table width="460" border="0" cellpadding="0" cellspacing="0" rules="none" frame="void">
+<table width="590" border="0" cellpadding="0" cellspacing="0" rules="none" frame="void">
   <tr>
-    <td width="460" align="justify" valign="top">
+    <td width="590" align="justify" valign="top">
 
 I'm a Computer Science student focused on Data Science and software development. I enjoy building practical solutions, experimenting with ideas, and continuously improving how I approach technical problems.
 
@@ -33,8 +33,80 @@ I'm a Computer Science student focused on Data Science and software development.
 ---
 
 <p>
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=700&size=32&duration=1&pause=1000000&color=FFFFFF&center=false&vCenter=true&repeat=false&width=320&height=38&lines=%F0%9F%9B%A0%EF%B8%8F+TECH+STACK" alt="TECH STACK" /><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Solid_white.svg/10px-Solid_white.svg.png" width="590" height="2" alt="" />
+</p>
+<b>Programming</b>
+<table border="0" cellpadding="4" cellspacing="8" rules="none" frame="void">
+<tr>
+<td align="center" valign="top" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" /><br/>Python</td>
+<td align="center" valign="top" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="48" height="48" alt="C" /><br/>C</td>
+<td align="center" valign="top" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" /><br/>C++</td>
+<td align="center" valign="top" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48" height="48" alt="Java" /><br/>Java</td>
+<td align="center" valign="top" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" /><br/>HTML</td>
+<td align="center" valign="top" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" /><br/>CSS</td>
+<td align="center" valign="top" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /><br/>JavaScript</td>
+<td align="center" valign="top" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" height="48" alt="SQL" /><br/>SQL</td>
+</tr>
+</table>
+<br/>
+<b>Data Science & ML</b>
+<table border="0" cellpadding="4" cellspacing="8" rules="none" frame="void">
+<tr>
+<td align="center" valign="top" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="Machine Learning" /><br/>Machine Learning</td>
+<td align="center" valign="top" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="Deep Learning" /><br/>Deep Learning</td>
+<td align="center" valign="top" width="72"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="NLP" /><br/>NLP</td>
+<td align="center" valign="top" width="72"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="48" height="48" alt="Feature Engineering" /><br/>Feature Engineering</td>
+<td align="center" valign="top" width="72"><img src="https://cdn.simpleicons.org/openai/412991" width="48" height="48" alt="RAG System" /><br/>RAG System</td>
+<td align="center" valign="top" width="72"><img src="https://cdn.simpleicons.org/plotly/3F4F75" width="48" height="48" alt="Model Evaluation" /><br/>Model Evaluation</td>
+</tr>
+</table>
+<br/>
+<b>Frameworks & Libraries</b>
+<table border="0" cellpadding="4" cellspacing="8" rules="none" frame="void">
+<tr>
+<td align="center" valign="top" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" /><br/>PyTorch</td>
+<td align="center" valign="top" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-Learn" /><br/>Scikit-Learn</td>
+<td align="center" valign="top" width="72"><img src="https://cdn.simpleicons.org/pandas/150458" width="48" height="48" alt="Pandas" /><br/>Pandas</td>
+<td align="center" valign="top" width="72"><img src="https://cdn.simpleicons.org/numpy/013243" width="48" height="48" alt="NumPy" /><br/>NumPy</td>
+</tr>
+</table>
+<br/>
+<b>Data Visualisation & BI</b>
+<table border="0" cellpadding="4" cellspacing="8" rules="none" frame="void">
+<tr>
+<td align="center" valign="top" width="72"><img src="https://cdn.simpleicons.org/tableau/E97627" width="48" height="48" alt="Tableau" /><br/>Tableau</td>
+<td align="center" valign="top" width="72"><img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" height="48" alt="Power BI" /><br/>Power BI</td>
+<td align="center" valign="top" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="DBMS" /><br/>DBMS</td>
+</tr>
+</table>
+<br/>
+<b>Web & API</b>
+<table border="0" cellpadding="4" cellspacing="8" rules="none" frame="void">
+<tr>
+<td align="center" valign="top" width="72"><img src="https://cdn.simpleicons.org/fastapi/009688" width="48" height="48" alt="FastAPI" /><br/>FastAPI</td>
+<td align="center" valign="top" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="React" /><br/>React</td>
+<td align="center" valign="top" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" /><br/>Next.js</td>
+</tr>
+</table>
+<br/>
+<b>Tools & Platforms</b>
+<table border="0" cellpadding="4" cellspacing="8" rules="none" frame="void">
+<tr>
+<td align="center" valign="top" width="72"><img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="48" height="48" alt="Google Colab" /><br/>Google Colab</td>
+<td align="center" valign="top" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" /><br/>Jupyter</td>
+<td align="center" valign="top" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="Git" /><br/>Git</td>
+<td align="center" valign="top" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="48" height="48" alt="GitHub" /><br/>GitHub</td>
+<td align="center" valign="top" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Google Cloud" /><br/>Google Cloud</td>
+<td align="center" valign="top" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" /><br/>VS Code</td>
+</tr>
+</table>
+<br/>
+---
+
+<p>
 <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=700&size=32&duration=1&pause=1000000&color=FFFFFF&center=false&vCenter=true&repeat=false&width=400&height=38&lines=%F0%9F%93%AB+CONNECT+WITH+ME" alt="CONNECT WITH ME" /><br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Solid_white.svg/10px-Solid_white.svg.png" width="1050" height="2" alt="" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Solid_white.svg/10px-Solid_white.svg.png" width="590" height="2" alt="" />
 </p>
 
 <p align="center">
