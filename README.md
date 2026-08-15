@@ -10,20 +10,23 @@
 <img align="right" width="360" src="https://files.catbox.moe/b6pf6v.gif" alt="3D Animation" />
 
 <p>
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=700&size=32&duration=1&pause=1000000&color=FFFFFF&center=false&vCenter=true&repeat=false&width=200&height=38&lines=ABOUT+ME" alt="ABOUT ME" />
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=700&size=32&duration=1&pause=1000000&color=FFFFFF&center=false&vCenter=true&repeat=false&width=200&height=38&lines=ABOUT+ME" alt="ABOUT ME" /><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Solid_white.svg/10px-Solid_white.svg.png" width="590" height="2" alt="" />
 </p>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Solid_white.svg/10px-Solid_white.svg.png" width="900" height="2" alt="" />
+<table width="590" border="0" rules="none" frame="void" cellspacing="0" cellpadding="0" style="border:0;border-collapse:collapse;border-color:var(--bgColor-default,#0d1117)">
+  <tr style="border:0;border-color:var(--bgColor-default,#0d1117)">
+    <td width="590" align="justify" valign="top" style="border:0;border-color:var(--bgColor-default,#0d1117)">
 
-<p align="justify">
 I'm a Computer Science student focused on Data Science and software development. I enjoy building practical solutions, experimenting with ideas, and continuously improving how I approach technical problems.
-</p>
 
-<p align="justify">
-• <b>Interests:</b> AI/ML, Data Science, RAG, LLMs, and intelligent applications.<br>
-• <b>Building:</b> Full-stack and data-driven projects that solve practical problems.<br>
-• <b>Currently exploring:</b> Machine Learning, scalable applications, and emerging AI technologies.
-</p>
+- **Interests:** AI/ML, Data Science, RAG, LLMs, and intelligent applications.
+- **Building:** Full-stack and data-driven projects that solve practical problems.
+- **Currently exploring:** Machine Learning, scalable applications, and emerging AI technologies.
+
+    </td>
+  </tr>
+</table>
 <br clear="both"/>
 <br/>
 
