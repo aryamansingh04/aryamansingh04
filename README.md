@@ -7,14 +7,16 @@
 
 ---
 
-<img align="right" width="360" hspace="12" src="https://files.catbox.moe/b6pf6v.gif" alt="3D Animation" />
+<img align="right" width="360" hspace="16" src="https://files.catbox.moe/b6pf6v.gif" alt="3D Animation" />
 
 <p>
 <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=700&size=32&duration=1&pause=1000000&color=FFFFFF&center=false&vCenter=true&repeat=false&width=280&height=38&lines=%F0%9F%9A%80+ABOUT+ME" alt="ABOUT ME" /><br />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Solid_white.svg/10px-Solid_white.svg.png" width="470" height="2" alt="" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Solid_white.svg/10px-Solid_white.svg.png" width="450" height="2" alt="" />
 </p>
 
-<div align="justify">
+<table width="450" border="0" cellpadding="0" cellspacing="0" rules="none" frame="void">
+  <tr>
+    <td width="450" align="justify" valign="top">
 
 I'm a Computer Science student focused on Data Science and software development. I enjoy building practical solutions, experimenting with ideas, and continuously improving how I approach technical problems.
 
@@ -22,7 +24,9 @@ I'm a Computer Science student focused on Data Science and software development.
 - **Building:** Full-stack and data-driven projects that solve practical problems.
 - **Currently exploring:** Machine Learning, scalable applications, and emerging AI technologies.
 
-</div>
+    </td>
+  </tr>
+</table>
 <br clear="both" />
 
 ---
