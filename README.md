@@ -14,9 +14,9 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Solid_white.svg/10px-Solid_white.svg.png" width="590" height="2" alt="" />
 </p>
 
-<table width="590" border="0" cellpadding="0" cellspacing="0" rules="none" frame="void">
+<table width="480" border="0" cellpadding="0" cellspacing="0" rules="none" frame="void">
   <tr>
-    <td width="590" align="justify" valign="top">
+    <td width="460" align="justify" valign="top">
 
 I'm a Computer Science student focused on Data Science and software development. I enjoy building practical solutions, experimenting with ideas, and continuously improving how I approach technical problems.
 
