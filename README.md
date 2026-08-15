@@ -14,11 +14,19 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Solid_white.svg/10px-Solid_white.svg.png" width="590" height="2" alt="" />
 </p>
 
+<table width="590" border="0" cellpadding="0" cellspacing="0" rules="none" frame="void">
+  <tr>
+    <td width="590" align="justify" valign="top">
+
 I'm a Computer Science student focused on Data Science and software development. I enjoy building practical solutions, experimenting with ideas, and continuously improving how I approach technical problems.
 
 - **Interests:** AI/ML, Data Science, RAG, LLMs, and intelligent applications.
 - **Building:** Full-stack and data-driven projects that solve practical problems.
 - **Currently exploring:** Machine Learning, scalable applications, and emerging AI technologies.
+
+    </td>
+  </tr>
+</table>
 <br clear="both" />
 <br />
 
@@ -29,35 +37,35 @@ I'm a Computer Science student focused on Data Science and software development.
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Solid_white.svg/10px-Solid_white.svg.png" width="590" height="2" alt="" />
 </p>
 <b>Programming</b><br />
-<p>
-<a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" /><br /><sub>Python</sub></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="48" height="48" alt="C" /><br /><sub>C</sub></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://isocpp.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" /><br /><sub>C++</sub></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.java.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48" height="48" alt="Java" /><br /><sub>Java</sub></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" /><br /><sub>HTML</sub></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" /><br /><sub>CSS</sub></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /><br /><sub>JavaScript</sub></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" height="48" alt="SQL" /><br /><sub>SQL</sub></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="48" height="48" alt="C" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48" height="48" alt="Java" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" height="48" alt="SQL" /></p>
+<p><sub>Python · C · C++ · Java · HTML · CSS · JavaScript · SQL</sub></p>
 <br />
+
 <b>Data Science &amp; ML</b><br />
-<p>
-<a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="Machine Learning" /><br /><sub>Machine Learning</sub></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="Deep Learning" /><br /><sub>Deep Learning</sub></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://huggingface.co/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="NLP" /><br /><sub>NLP</sub></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="48" height="48" alt="Feature Engineering" /><br /><sub>Feature Engineering</sub></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://openai.com/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="48" height="48" alt="RAG System" /><br /><sub>RAG System</sub></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://plotly.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/plotly/3F4F75" width="48" height="48" alt="Model Evaluation" /><br /><sub>Model Evaluation</sub></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="Machine Learning" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="Deep Learning" />&nbsp;<img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="NLP" />&nbsp;<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="48" height="48" alt="Feature Engineering" />&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="48" height="48" alt="RAG System" />&nbsp;<img src="https://cdn.simpleicons.org/plotly/3F4F75" width="48" height="48" alt="Model Evaluation" /></p>
+<p><sub>Machine Learning · Deep Learning · NLP · Feature Engineering · RAG System · Model Evaluation</sub></p>
 <br />
+
 <b>Frameworks &amp; Libraries</b><br />
-<p>
-<a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" /><br /><sub>PyTorch</sub></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-Learn" /><br /><sub>Scikit-Learn</sub></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" /><br /><sub>Pandas</sub></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://numpy.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/numpy/013243" width="48" height="48" alt="NumPy" /><br /><sub>NumPy</sub></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-Learn" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />&nbsp;<img src="https://cdn.simpleicons.org/numpy/013243" width="48" height="48" alt="NumPy" /></p>
+<p><sub>PyTorch · Scikit-Learn · Pandas · NumPy</sub></p>
 <br />
+
 <b>Data Visualisation &amp; BI</b><br />
-<p>
-<a href="https://www.tableau.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="48" height="48" alt="Tableau" /><br /><sub>Tableau</sub></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://powerbi.microsoft.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="48" height="48" alt="Power BI" /><br /><sub>Power BI</sub></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="DBMS" /><br /><sub>DBMS</sub></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+<p><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="48" height="48" alt="Tableau" />&nbsp;<img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="48" height="48" alt="Power BI" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="DBMS" /></p>
+<p><sub>Tableau · Power BI · DBMS</sub></p>
 <br />
+
 <b>Web &amp; API</b><br />
-<p>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" /><br /><sub>FastAPI</sub></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://react.dev/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="React" /><br /><sub>React</sub></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" /><br /><sub>Next.js</sub></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="React" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" /></p>
+<p><sub>FastAPI · React · Next.js</sub></p>
 <br />
+
 <b>Tools &amp; Platforms</b><br />
-<p>
-<a href="https://colab.research.google.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="48" height="48" alt="Google Colab" /><br /><sub>Google Colab</sub></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" /><br /><sub>Jupyter</sub></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="Git" /><br /><sub>Git</sub></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="48" height="48" alt="GitHub" /><br /><sub>GitHub</sub></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://cloud.google.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Google Cloud" /><br /><sub>Google Cloud</sub></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" /><br /><sub>VS Code</sub></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+<p><img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="48" height="48" alt="Google Colab" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="Git" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Google Cloud" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" /></p>
+<p><sub>Google Colab · Jupyter · Git · GitHub · Google Cloud · VS Code</sub></p>
 <br />
+
 ---
 
 <p>
