@@ -14,7 +14,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Solid_white.svg/10px-Solid_white.svg.png" width="590" height="2" alt="" />
 </p>
 
-<table width="590"  cellpadding="0" cellspacing="0" rules="none" frame="void">
+<table width="590" border="0" cellpadding="0" cellspacing="0" rules="none" frame="void">
   <tr>
     <td width="590" align="justify" valign="top">
 
@@ -28,33 +28,31 @@ I'm a Computer Science student focused on Data Science and software development.
   </tr>
 </table>
 <br clear="both"/>
+<br/>
 
 ---
 
-## 📫 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/aryaman-kumar-singh-2b6832317/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/aks_aryaman" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="40" height="40" />
-  </a>
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=700&size=32&duration=1&pause=1000000&color=FFFFFF&center=false&vCenter=true&repeat=false&width=320&height=38&lines=CONNECT+WITH+ME" alt="CONNECT WITH ME" /><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Solid_white.svg/10px-Solid_white.svg.png" width="590" height="2" alt="" />
 </p>
 
-## 📝 Languages & Technologies Known
-<p align="left">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-0064a5?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+<table width="590" border="0" cellpadding="0" cellspacing="0" rules="none" frame="void">
+  <tr>
+    <td width="590" align="left" valign="top">
+
+<a href="https://www.linkedin.com/in/aryaman-kumar-singh-2b6832317/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:aks.aryaman04@gmail.com" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/888/888853.png" alt="Gmail" width="40" height="40" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://aryamankrsingh.netlify.app/" target="_blank">
+  <img src="https://aryamankrsingh.netlify.app/images/logo.png" alt="Portfolio" width="40" height="40" />
+</a>
+
+    </td>
+  </tr>
+</table>
