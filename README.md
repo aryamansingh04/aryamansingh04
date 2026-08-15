@@ -14,13 +14,19 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Solid_white.svg/10px-Solid_white.svg.png" width="590" height="2" alt="" />
 </p>
 
-- 🌱 Aspiring Data Scientist  
-- 💻 Passionate Web Developer  
-- 🖥️ Coding enthusiast always exploring new technologies  
-- 🤖 Interested in AI/ML, Data Analytics, and Cloud Computing  
-- 💡 Love to build projects and turn ideas into reality  
-- 🌍 Always curious to learn and share knowledge  
+<table border="0" cellpadding="0" cellspacing="0" width="590">
+  <tr>
+    <td width="590" align="justify" valign="top">
 
+I'm a Computer Science student focused on Data Science and software development. I enjoy building practical solutions, experimenting with ideas, and continuously improving how I approach technical problems.
+
+- **Interests:** AI/ML, Data Science, RAG, LLMs, and intelligent applications.
+- **Building:** Full-stack and data-driven projects that solve practical problems.
+- **Currently exploring:** Machine Learning, scalable applications, and emerging AI technologies.
+
+    </td>
+  </tr>
+</table>
 <br clear="both"/>
 <br/>
 
