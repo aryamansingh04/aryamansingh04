@@ -28,7 +28,6 @@ I'm a Computer Science student focused on Data Science and software development.
   </tr>
 </table>
 <br clear="both"/>
-<br/>
 
 ---
 
