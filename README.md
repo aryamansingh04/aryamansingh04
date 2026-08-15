@@ -37,22 +37,10 @@ I'm a Computer Science student focused on Data Science and software development.
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Solid_white.svg/10px-Solid_white.svg.png" width="590" height="2" alt="" />
 </p>
 
-<table width="590" border="0" cellpadding="0" cellspacing="0" rules="none" frame="void">
-  <tr>
-    <td width="590" align="left" valign="top">
-
-<a href="https://www.linkedin.com/in/aryaman-kumar-singh-2b6832317/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:aks.aryaman04@gmail.com" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/888/888853.png" alt="Gmail" width="40" height="40" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://aryamankrsingh.netlify.app/" target="_blank">
-  <img src="https://aryamankrsingh.netlify.app/images/logo.png" alt="Portfolio" width="40" height="40" />
-</a>
-
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.linkedin.com/in/aryaman-kumar-singh-2b6832317/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:aks.aryaman04@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/888/888853.png" alt="Gmail" width="40" height="40" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://aryamankrsingh.netlify.app/" target="_blank"><img src="https://aryamankrsingh.netlify.app/images/logo.png" alt="Portfolio" width="40" height="40" /></a>
+</p>
