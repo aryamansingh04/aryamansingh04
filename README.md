@@ -14,9 +14,22 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Solid_white.svg/10px-Solid_white.svg.png" width="590" height="2" alt="" />
 </p>
 
-<table width="590" border="0" rules="none" frame="void" cellspacing="0" cellpadding="0" style="border:0;border-collapse:collapse;border-color:var(--bgColor-default,#0d1117)">
-  <tr style="border:0;border-color:var(--bgColor-default,#0d1117)">
-    <td width="590" align="justify" valign="top" style="border:0;border-color:var(--bgColor-default,#0d1117)">
+<svg xmlns="http://www.w3.org/2000/svg" width="0" height="0">
+  <style>
+    .markdown-body table,
+    .markdown-body table tr,
+    .markdown-body table th,
+    .markdown-body table td {
+      border: 0 !important;
+      border-color: #0d1117 !important;
+      background-color: transparent !important;
+    }
+  </style>
+</svg>
+
+<table width="590" border="0" bordercolor="#0d1117" rules="none" frame="void" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="590" align="justify" valign="top">
 
 I'm a Computer Science student focused on Data Science and software development. I enjoy building practical solutions, experimenting with ideas, and continuously improving how I approach technical problems.
 
