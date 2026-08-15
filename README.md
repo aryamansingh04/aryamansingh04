@@ -10,9 +10,9 @@
 <img align="right" width="360" src="https://files.catbox.moe/b6pf6v.gif" alt="3D Animation" />
 
 <p>
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=700&size=32&duration=1&pause=1000000&color=FFFFFF&center=false&vCenter=true&repeat=false&width=280&height=38&lines=%F0%9F%9A%80+ABOUT+ME" alt="ABOUT ME" /><br />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Solid_white.svg/10px-Solid_white.svg.png" width="590" height="2" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=700&size=32&duration=1&pause=1000000&color=FFFFFF&center=false&vCenter=true&repeat=false&width=280&height=38&lines=%F0%9F%9A%80+ABOUT+ME" alt="ABOUT ME" />
 </p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Solid_white.svg/1200px-Solid_white.svg.png" width="1200" height="3" alt="" />
 
 <table width="460" border="0" cellpadding="0" cellspacing="0" rules="none" frame="void">
   <tr>
