@@ -39,14 +39,14 @@ I'm a Computer Science student focused on Data Science and software development.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aryaman-kumar-singh-2b6832317/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=3B82F6" alt="LinkedIn" />
+    <img height="40" src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&labelColor=3B82F6&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMTEyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy40NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:aks.aryaman04@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/GMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=3B82F6" alt="Gmail" />
+    <img height="40" src="https://img.shields.io/badge/GMAIL-0d1117?style=for-the-badge&labelColor=3B82F6&logoColor=white&logo=gmail" alt="Gmail" />
   </a>
   &nbsp;
   <a href="https://aryamankrsingh.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=https://aryamankrsingh.netlify.app/images/logo.png&logoColor=white&labelColor=3B82F6" alt="Portfolio" />
+    <img height="40" src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&labelColor=3B82F6&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBvbHlnb24gcG9pbnRzPSIxMiw0IDIwLDIwIDQsMjAiIGZpbGw9IiMwMDAwMDAiLz48L3N2Zz4=" alt="Portfolio" />
   </a>
 </p>
