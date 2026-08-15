@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=700&size=48&duration=1&pause=1000000&color=3B82F6&center=false&vCenter=true&repeat=false&width=160&height=70&lines=I+AM" alt="I  AM" /><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=700&size=48&duration=1&pause=1000000&color=FFFFFF&center=false&vCenter=true&repeat=false&width=420&height=70&lines=ARYAMAN+SINGH" alt="ARYAMAN SINGH" />
 </p>
+
 ---
 
 <img align="right" width="360" src="https://files.catbox.moe/b6pf6v.gif" alt="3D Animation" />
@@ -32,7 +33,7 @@ I'm a Computer Science student focused on Data Science and software development.
 ---
 
 <p>
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=700&size=32&duration=1&pause=1000000&color=FFFFFF&center=false&vCenter=true&repeat=false&width=320&height=38&lines=CONNECT+WITH+ME" alt="CONNECT WITH ME" /><br>
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=700&size=32&duration=1&pause=1000000&color=FFFFFF&center=false&vCenter=true&repeat=false&width=320&height=38&lines=CONNECT+WITH+ME" alt="CONNECT WITH ME" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Solid_white.svg/10px-Solid_white.svg.png" width="100%" height="2" alt="" />
 </p>
 
