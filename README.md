@@ -14,9 +14,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Solid_white.svg/10px-Solid_white.svg.png" width="590" height="2" alt="" />
 </p>
 
-<table border="0" cellpadding="0" cellspacing="0" width="590">
-  <tr>
-    <td width="590" align="justify" valign="top">
+<div align="justify">
 
 I'm a Computer Science student focused on Data Science and software development. I enjoy building practical solutions, experimenting with ideas, and continuously improving how I approach technical problems.
 
@@ -24,12 +22,9 @@ I'm a Computer Science student focused on Data Science and software development.
 - **Building:** Full-stack and data-driven projects that solve practical problems.
 - **Currently exploring:** Machine Learning, scalable applications, and emerging AI technologies.
 
-    </td>
-  </tr>
-</table>
+</div>
 <br clear="both"/>
 <br/>
-
 ---
 
 ## 📫 Connect with Me
