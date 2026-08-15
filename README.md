@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=700&size=48&duration=1&pause=1000000&color=3B82F6&center=false&vCenter=true&repeat=false&width=160&height=70&lines=I+AM" alt="I  AM" /><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=700&size=48&duration=1&pause=1000000&color=FFFFFF&center=false&vCenter=true&repeat=false&width=420&height=70&lines=ARYAMAN+SINGH" alt="ARYAMAN SINGH" />
 </p>
-
 ---
 
 <img align="right" width="360" src="https://files.catbox.moe/b6pf6v.gif" alt="3D Animation" />
